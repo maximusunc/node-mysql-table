@@ -1,6 +1,6 @@
 # node-mysql-table
 
-This application connects to a MySQL database and prints out the data as a table in the command line.
+This application connects to a MySQL database and displays it via Handlebars.js as a table.
 
 ## Technologies used:
 
