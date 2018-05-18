@@ -1,0 +1,25 @@
+{
+  "name": "node-mysql-table",
+  "version": "1.0.0",
+  "description": "Node/MySQL table application",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximusunc/node-mysql-table.git"
+  },
+  "author": "Max Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximusunc/node-mysql-table/issues"
+  },
+  "homepage": "https://github.com/maximusunc/node-mysql-table#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}
